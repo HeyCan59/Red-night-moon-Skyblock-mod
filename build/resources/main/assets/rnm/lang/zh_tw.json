@@ -1,0 +1,24 @@
+
+{
+    "key.category.rnm.general": "Red night moon",
+    "key.rnm.open_gui": "Open Rnm GUI",
+
+    "screen.rnm.settings.title": "紅夜月設定",
+
+    "rnm.gui.general": "一般設定",
+    "rnm.gui.chatTimestamp": "聊天時間戳記：%s",
+
+    "rnm.gui.combat": "戰鬥",
+    "rnm.gui.farming": "農業",
+    "rnm.gui.fishing": "釣魚",
+    "rnm.gui.mining": "採礦",
+    "rnm.gui.foraging": "伐木",
+    "rnm.gui.dungeon": "地下城",
+    
+    "text.rnm.enabled": "測試用：%s",
+    "rnm.gui.mining.MetalDetector": "金屬探測器住手：%s",
+    "text.rnm.on": "開啟",
+    "text.rnm.off": "關閉",
+
+    "rnmt": "版權所有 © 2021 - 2026 ∙ Red night moon Team"
+}
